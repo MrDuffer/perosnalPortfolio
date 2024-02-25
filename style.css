@@ -1,0 +1,36 @@
+body{
+    font-family: "Roboto", sans-serif;
+
+margin: 0;}
+
+h1{
+    font-size: 50px;
+}
+#titlespan{
+    color: chocolate;
+}
+section{
+    display: flex;
+    
+}
+.TopBanner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.halfWide{
+    width: 50%;
+    
+}
+.halfWide img{
+    width: 80%;
+    padding-left: 8%;
+}
+.hireMeButton{
+    text-decoration: none;
+    background-color: rgb(230, 100, 8);
+    padding: 10px 20px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: 700;
+}
