@@ -9,7 +9,7 @@ h1{
 #titlespan{
     color: chocolate;
 }
-section{
+.FlexibleContainer{
     display: flex;
     margin-bottom: 150px;
     
